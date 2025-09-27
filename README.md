@@ -96,7 +96,7 @@ Aphasia Recovery Cohort (ARC) Dataset. OpenNeuro. [Dataset] doi: doi:10.18112/op
 2 ARC ImageMask Dataset
 </a>
 </h3>
-<h4>2.1 Download ARC-PNG-ImageMask-Subset</h4>
+<h4>2.1 Download ARC-PNG-ImageMask-Dataset</h4>
  If you would like to train this ARC Segmentation model by yourself,
  please download  our dataset <a href="https://drive.google.com/file/d/1x7d2_QQL-whgIFmnbZdYcNBvu7XFHCLT/view?usp=sharing">
  ARC-PNG-ImageMask-Dataset.zip (2.5GB) </a> on the google drive
@@ -134,7 +134,7 @@ AphasiaRecoveryCohortDemo
 <br>
 We generated our PNG ImageMask Dataset from <b>wbsub-M*_ses-*_T1w.nii.gz</b> and their corresponding 
 <b>wsub-M*_ses-*_lesion.nii.gz</b> files.
-In the generation process, for simplicity, we excluded all black empty masks and their correspondin images which 
+In the generation process, for simplicity, we excluded all black empty masks and their corresponding images which 
 were contained in the original NIfTI files.<br>
  
 <pre>
