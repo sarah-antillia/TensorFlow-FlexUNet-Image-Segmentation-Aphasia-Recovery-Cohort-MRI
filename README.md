@@ -334,8 +334,6 @@ python ../../../src/TensorFlowFlexUNetInferencer.py ./train_eval_infer.config
 
 <hr>
 <b>Inferred test masks</b><br>
-As shown below, this segmentation model failed to detect some Ischemia lesions.<br>
-
 <img src="./projects/TensorFlowFlexUNet/ARC/asset/mini_test_output.png" width="1024" height="auto"><br>
 <br>
 <hr>
